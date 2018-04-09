@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="userName">Please enter your codename...</string>
+    <string name="q1">1. This character was the leader of a division of Overwatch known as
+        Blackwatch. He was almost killed in a accident at Overwatch headquarters, and the efforts to
+        save him turned him into a wraith-like figure. What is the name of this character?</string>
+    <string name="genji">Genji</string>
+    <string name="reaper">Reaper</string>
+    <string name="zenyatta">Zenyatta</string>
+    <string name="mccree">McCree</string>
+    <string name="q2">2. This character is British in nationality. She was once a test pilot for an experimental time-traveling aircraft, but was lost in time due to the effects of the experiment going poorly. Who is this character?</string>
+    <string name="tracer">Tracer</string>
+    <string name="d_va">D.Va</string>
+    <string name="widowmaker">Widowmaker</string>
+    <string name="pharah">Pharah</string>
+    <string name="q3">3. Which of the following heroes are in the tank class? (2 correct answers)</string>
+    <string name="bastion">Bastion</string>
+    <string name="reinhardt">Reinhardt</string>
+    <string name="winston">Winston</string>
+    <string name="kunal">Kunal</string>
+    <string name="kelsey">Kelsey</string>
+    <string name="q4">4. This character is a giant German who wields a rocket-powered hammer and can project a giant shield. He was once a member of the German Crusaders during the Omnic Crisis. What is the name of this character?</string>
+    <string name="free_text_response">Type the character\'s name...</string>
+    <string name="q5">5. This character was chosen to be a part of a super-solider making program. Afterwards, he became the leader of Overwatch, until an accident brought about his supposed death. Who is this character?</string>
+    <string name="pharah2">Pharah</string>
+    <string name="reinhardt2">Reinhardt</string>
+    <string name="roadhog">Roadhog</string>
+    <string name="soldier_76">Soldier:76</string>
+    <string name="free_text_response2">6. Which hero is the latest addition to Overwatch?</string>
+    <string name="q7">This female character is very involved in fighting for environmental preservation. She was cryogenically frozen at a climate station in Antarctica. What is the name of this character?</string>
+    <string name="mercy">Mercy</string>
+    <string name="katherine">Katherine</string>
+    <string name="mei">Mei</string>
+    <string name="symmetra">Symmetra</string>
+    <string name="submit_button">Submit Answers</string>
+    <string name="image_desc_1">team_overwatch</string>
+    <string name="hint2">Type character\'s name...</string>
+    <string name="image_desc_2">dVa</string>
+</resources>
